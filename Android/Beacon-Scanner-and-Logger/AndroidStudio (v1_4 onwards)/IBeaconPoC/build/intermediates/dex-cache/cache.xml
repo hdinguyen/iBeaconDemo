@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/justin/AndroidstudioProjects/IBeaconPoC/IBeaconPoC/build/intermediates/pre-dexed/debug/android-support-v4-22695a2c5afe483e0d0b9be909f1791cea610aff.jar"
+        jar="/Users/justin/AndroidstudioProjects/IBeaconPoC/IBeaconPoC/libs/android-support-v4.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="4a6be13368bb64c5a0b0460632d228a1a915f58f"/>
+    <item
+        dex="/Users/justin/Repository/Beacon-Scanner-and-Logger/AndroidStudio (v1_4 onwards)/IBeaconPoC/IBeaconPoC/build/intermediates/pre-dexed/debug/android-support-v4-2325c3ddecb2ba57705727b3bef5fbea4ea32c8d.jar"
+        jar="/Users/justin/Repository/Beacon-Scanner-and-Logger/AndroidStudio (v1_4 onwards)/IBeaconPoC/IBeaconPoC/libs/android-support-v4.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="4a6be13368bb64c5a0b0460632d228a1a915f58f"/>
+    <item
+        dex="/Users/justin/AndroidstudioProjects/IBeaconPoC/IBeaconPoC/build/intermediates/pre-dexed/debug/classes-dc009002ddfa7ca3b0f8e8fd630abaaa3d94df55.jar"
+        jar="/Users/justin/AndroidstudioProjects/IBeaconPoC/IBeaconPoC/build/intermediates/exploded-aar/IBeaconPoC/googleplayservices_lib/unspecified/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="f2f842870df86728f77dfd68a8557e422b38b924"/>
+    <item
+        dex="/Users/justin/Repository/Beacon-Scanner-and-Logger/AndroidStudio (v1_4 onwards)/IBeaconPoC/IBeaconPoC/build/intermediates/pre-dexed/debug/classes-d3b950b21c73a1d541f0d61f7096733ae67829ba.jar"
+        jar="/Users/justin/Repository/Beacon-Scanner-and-Logger/AndroidStudio (v1_4 onwards)/IBeaconPoC/IBeaconPoC/build/intermediates/exploded-aar/org.altbeacon/android-beacon-library/2.0-beta6/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8d820fcc1c784850066227ea932b52571d9e6fec"/>
+    <item
+        dex="/Users/justin/Repository/Beacon-Scanner-and-Logger/AndroidStudio (v1_4 onwards)/IBeaconPoC/IBeaconPoC/build/intermediates/pre-dexed/debug/classes-bc5a1899e168b2457d46ae52888f7441477acf11.jar"
+        jar="/Users/justin/Repository/Beacon-Scanner-and-Logger/AndroidStudio (v1_4 onwards)/IBeaconPoC/IBeaconPoC/build/intermediates/exploded-aar/IBeaconPoC/googleplayservices_lib/unspecified/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="5dd4ab793f7923ea4722a5b22a40f1a63bc80dae"/>
+    <item
+        dex="/Users/justin/AndroidstudioProjects/IBeaconPoC/IBeaconPoC/build/intermediates/pre-dexed/debug/google-play-services-21565ca4c3b346bfb6ceeb6a43d2c58f7d03a2e8.jar"
+        jar="/Users/justin/AndroidstudioProjects/IBeaconPoC/IBeaconPoC/build/intermediates/exploded-aar/IBeaconPoC/googleplayservices_lib/unspecified/libs/google-play-services.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="d71573c9c5ea98a8db47ad6ff993a63d492b3bfa"/>
+    <item
+        dex="/Users/justin/Repository/Beacon-Scanner-and-Logger/AndroidStudio (v1_4 onwards)/IBeaconPoC/IBeaconPoC/build/intermediates/pre-dexed/debug/google-play-services-1ec3563b5696b88f324643b4e2937223f3ec2c43.jar"
+        jar="/Users/justin/Repository/Beacon-Scanner-and-Logger/AndroidStudio (v1_4 onwards)/IBeaconPoC/IBeaconPoC/build/intermediates/exploded-aar/IBeaconPoC/googleplayservices_lib/unspecified/libs/google-play-services.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="d71573c9c5ea98a8db47ad6ff993a63d492b3bfa"/>
+    <item
+        dex="/Users/justin/AndroidstudioProjects/IBeaconPoC/IBeaconPoC/build/intermediates/pre-dexed/debug/classes-ef14dfcbf8ad23cfc09caaaa43e19a4dff32bfbd.jar"
+        jar="/Users/justin/AndroidstudioProjects/IBeaconPoC/IBeaconPoC/build/intermediates/exploded-aar/org.altbeacon/android-beacon-library/2.0-beta6/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8d820fcc1c784850066227ea932b52571d9e6fec"/>
+
+</pre-dex-items>
